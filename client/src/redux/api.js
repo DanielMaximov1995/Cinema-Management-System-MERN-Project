@@ -1,1 +1,1 @@
-export const url = 'https://cinema-management-system.onrender.com';
+export const url = process.env.apiURL
