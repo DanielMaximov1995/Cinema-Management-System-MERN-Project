@@ -1,3 +1,1 @@
-require('dotenv').config()
-
-export const url = process.env.apiURL
+export const url = process.env.REACT_APP_URL_API
